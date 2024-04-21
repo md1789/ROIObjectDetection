@@ -75,3 +75,10 @@ pip install -q coco_eval --for DeTr
 pip install datasets==2.15
 
 pip install roboflow
+
+## Resources
+[DETR](https://blog.roboflow.com/train-detr-on-custom-dataset/)
+[DETR Official Paper](https://arxiv.org/pdf/2005.12872.pdf)
+[Yolov5](https://github.com/ultralytics/yolov5)
+[Yolov7](https://github.com/WongKinYiu/yolov7)
+[Yolov7 Official Paper](https://arxiv.org/pdf/2207.02696.pdf)
